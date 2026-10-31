@@ -8,7 +8,7 @@ COMSOL RF Module coursework — plane waves, resonant cavities, waveguide ports,
 | <img src="02-resonant-cavity-modes/figures/mesh.png" width="140"> | [`02-resonant-cavity-modes/`](02-resonant-cavity-modes/) | Rectangular PEC cavity eigenfrequency solve, validated against the analytical TE/TM mode formula to within 0.005% average error across 19 modes |
 | <img src="03-rectangular-waveguide-two-port/figures/s21_s11_vs_frequency.png" width="140"> | [`03-rectangular-waveguide-two-port/`](03-rectangular-waveguide-two-port/) | TE10 two-port S-parameter sweep (30–350 MHz) through a rectangular waveguide — including why S-parameters are undefined below cutoff, confirmed with both analytic and numeric port types |
 | <img src="04-skin-effect-copper-coil/figures/low_frequency_spread.png" width="140"> | [`04-skin-effect-copper-coil/`](04-skin-effect-copper-coil/) | AC current density in a copper coil cross-section — the transition from a spread-out low-frequency distribution to the classic skin-effect ring at the conductor's surface |
-| <img src="05-waves-in-media-reflection/04-total-reflection-perfect-conductor/figures/standing_wave_envelopes.png" width="140"> | [`05-waves-in-media-reflection/`](05-waves-in-media-reflection/) | Four related studies: propagation through 5 media with no reflection, vacuum→medium reflection, a lossless chain of 5 media, and total reflection off a perfect conductor |
+| <img src="05-waves-in-media-reflection/04-total-reflection-perfect-conductor/figures/field_2D.png" width="140"> | [`05-waves-in-media-reflection/`](05-waves-in-media-reflection/) | Four related studies: propagation through 5 media with no reflection, vacuum→medium reflection, a lossless chain of 5 media, and total reflection off a perfect conductor |
 
 ## Source
 
