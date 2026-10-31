@@ -18,13 +18,13 @@ Each one found the actual thermal bottleneck somewhere other than where the "obv
 
 COMSOL RF Module coursework — plane waves, resonant cavities, waveguide ports, eddy currents, and wave propagation/reflection through different media.
 
-| Topic | What it covers |
-|---|---|
-| [`electromagnetics/01-plane-wave-material-sweep/`](electromagnetics/01-plane-wave-material-sweep/) | 2D plane wave at 1 GHz swept across 27 combinations of εr, μr, σ |
-| [`electromagnetics/02-resonant-cavity-modes/`](electromagnetics/02-resonant-cavity-modes/) | PEC cavity eigenmodes, validated to 0.005% average error against theory across 19 modes |
-| [`electromagnetics/03-rectangular-waveguide-two-port/`](electromagnetics/03-rectangular-waveguide-two-port/) | TE10 waveguide S-parameters, including why they're undefined below cutoff |
-| [`electromagnetics/04-skin-effect-copper-coil/`](electromagnetics/04-skin-effect-copper-coil/) | Current density in a copper coil, from spread-out to the classic skin-effect ring |
-| [`electromagnetics/05-waves-in-media-reflection/`](electromagnetics/05-waves-in-media-reflection/) | Propagation and reflection through vacuum, dielectrics, seawater, and copper, plus total reflection off a perfect conductor |
+| | Topic | What it covers |
+|---|---|---|
+| <img src="electromagnetics/01-plane-wave-material-sweep/figures/dielectric_eps10_mu1_sigma0.png" width="140"> | [`electromagnetics/01-plane-wave-material-sweep/`](electromagnetics/01-plane-wave-material-sweep/) | 2D plane wave at 1 GHz swept across 27 combinations of εr, μr, σ |
+| <img src="electromagnetics/02-resonant-cavity-modes/figures/s11_vs_eigenfrequency.png" width="140"> | [`electromagnetics/02-resonant-cavity-modes/`](electromagnetics/02-resonant-cavity-modes/) | PEC cavity eigenmodes, validated to 0.005% average error against theory across 19 modes |
+| <img src="electromagnetics/03-rectangular-waveguide-two-port/figures/s21_s11_vs_frequency.png" width="140"> | [`electromagnetics/03-rectangular-waveguide-two-port/`](electromagnetics/03-rectangular-waveguide-two-port/) | TE10 waveguide S-parameters, including why they're undefined below cutoff |
+| <img src="electromagnetics/04-skin-effect-copper-coil/figures/high_frequency_skin_ring.png" width="140"> | [`electromagnetics/04-skin-effect-copper-coil/`](electromagnetics/04-skin-effect-copper-coil/) | Current density in a copper coil, from spread-out to the classic skin-effect ring |
+| <img src="electromagnetics/05-waves-in-media-reflection/figures/s21_comparison.png" width="140"> | [`electromagnetics/05-waves-in-media-reflection/`](electromagnetics/05-waves-in-media-reflection/) | Propagation and reflection through vacuum, dielectrics, seawater, and copper, plus total reflection off a perfect conductor |
 
 See [`electromagnetics/README.md`](electromagnetics/README.md) for the full index.
 

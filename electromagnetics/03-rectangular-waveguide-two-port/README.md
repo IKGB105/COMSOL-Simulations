@@ -4,6 +4,10 @@ A rectangular waveguide (a=1.0 m, b=0.75 m, L=0.5 m, PEC walls, air-filled), exc
 
 Full writeup: [`informe_puerto.pdf`](informe_puerto.pdf) (3 pages) · day-by-day notes: [`bitacora_puertos.pdf`](bitacora_puertos.pdf)
 
+<img src="figures/s21_s11_vs_frequency.png" width="600" alt="S11 and S21 vs frequency, showing the TE10 cutoff and the perturbations at higher-mode cutoffs">
+
+*S11 (reflection) and S21 (transmission) vs. frequency. The shaded region below 149.9 MHz is where the S-parameter is undefined (see below); the dashed lines mark each mode's cutoff.*
+
 ## Setup
 
 - Software: COMSOL Multiphysics, *Electromagnetic Waves, Frequency Domain*, 3D.
