@@ -1,0 +1,5 @@
+|S11| = 0.3663 (teoria 0.3662)
+|S21| = 0.9305
+|S11|^2 + |S21|^2 = 1.000000 (sin perdidas -> 1)
+Potencia reflejada al vacio: 13.41 %, transmitida al agua: 86.59 %
+Error relativo maximo del campo vs solucion exacta: 4.0e-05

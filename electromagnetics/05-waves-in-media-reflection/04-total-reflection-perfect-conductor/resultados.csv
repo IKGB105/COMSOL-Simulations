@@ -1,0 +1,13 @@
+cantidad,teoria,COMSOL
+lambda en el dielectrico [m],1499,1499 (2 x separacion entre nodos)
+velocidad de fase [m/s],1.499e+08,1.499e+08
+|Gamma| = |S11|,1,1.000000
+potencia transmitida al conductor,0 %,2.0e-13 %
+ROE,infinita,infinita
+|E| maximo [V/m],2,2.00000
+|E| en la pared [V/m],0,0.0e+00
+eta*|H| en la pared [V/m],2,2.00410
+flujo neto de potencia / incidente,0,5.3e-15
+nodos de E (distancia a la pared) [m],"0, 749, 1499, 2248, 2998, 3747",(teoria: 0 750 1499 2249 2998 3748 = n lambda/2)
+maximos de H (distancia a la pared) [m],"7, 749, 1499, 2248, 2998, 3747, 4489",(teoria: los mismos puntos que los nodos de E)
+error relativo E / H vs teoria,0,3.9e-05 / 2.1e-03

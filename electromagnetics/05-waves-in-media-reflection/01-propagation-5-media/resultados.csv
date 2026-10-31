@@ -1,0 +1,6 @@
+caso,eps_r,sigma[S/m],tan_d,regimen,lambda_teo[m],lambda_COMSOL[m],v_teo[m/s],v_COMSOL[m/s],v/c,alpha_teo[Np/m],alpha_COMSOL[Np/m],delta_teo[m],|eta|[ohm],ang_eta[deg],|S11|,|S21|_teo,|S21|_COMSOL,S21[dB],err_campo
+Vacio,1,0,0,sin perdidas,2997.9,2997.9,2.9979e+08,2.9979e+08,1,0,-1.336e-14,inf,376.7,0.0,4.6e-11,1,1,-0.00,6.6e-08
+Dielectrico ideal,4,0,0,sin perdidas,1499,1499,1.499e+08,1.499e+08,0.5,0,-1.851e-13,inf,188.4,0.0,1.5e-09,1,1,-0.00,2.1e-06
+Dielectrico disipativo,4,5e-06,0.225,dielectrico disipativo,1489.7,1489.7,1.4897e+08,1.4897e+08,0.4969,0.000468,0.000468,2137,186.1,6.3,4.4e-08,0.06032,0.06032,-24.39,2.9e-07
+Agua de mar,81,4,8.88e+03,buen conductor,4.9997,4.9997,4.9997e+05,4.9997e+05,0.001668,1.257,1.257,0.7958,0.4443,45.0,6.5e-10,0.001868,0.001868,-54.57,1.6e-09
+Cobre,1,5.8e+07,1.04e+13,buen conductor,0.0013131,0.0013131,131.31,131.31,4.38e-07,4785,4785,0.000209,0.0001167,45.0,6.3e-10,0.001988,0.001988,-54.03,1.5e-09

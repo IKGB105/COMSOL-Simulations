@@ -1,0 +1,2 @@
+caso,a_m,b_m,d_m,n_modos_comparados,n_modos_comsol_fisicos,error_rel_promedio_pct,error_rel_maximo_pct
+a1_b0p75_d0p5,1.0,0.75,0.5,19,19,0.004870726486208875,0.0116959984676492

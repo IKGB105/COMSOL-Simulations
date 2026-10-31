@@ -1,0 +1,5 @@
+caso,lambda_sin[m],lambda_con[m],v_sin[m/s],v_con[m/s],amplitud_que_entra_sin[V/m],amplitud_que_entra_con[V/m],ROE_vacio_sin,ROE_vacio_con,|S11|_sin,|S11|_con,|S21|_sin,|S21|_con,S21_sin[dB],S21_con[dB],perdida_por_reflexion[dB],potencia_reflejada_con[%],potencia_transmitida_con[%]
+Dielectrico ideal,1499,1499,1.499e+08,1.499e+08,1,0.6667,1,2,1.5e-09,0.3333,1,0.9428,-0.00,-0.51,-0.51,11.11,88.9
+Dielectrico disipativo,1489.7,1489.7,1.4897e+08,1.4897e+08,1,0.6621,1,2.045,4.4e-08,0.3432,0.06032,0.05666,-24.39,-24.93,-0.54,11.78,88.2
+Agua de mar,4.9997,4.9997,4.9997e+05,4.9997e+05,1,0.002357,1,1199,6.5e-10,0.9983,0.001868,0.0001078,-54.57,-79.35,-24.78,99.67,0.333
+Cobre,0.0013131,0.0013131,131.31,131.31,1,6.194e-07,1,4.566e+06,6.3e-10,1,0.001988,1.861e-06,-54.03,-114.61,-60.58,100,8.76e-05
